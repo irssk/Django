@@ -14,8 +14,8 @@ TodoList = [
     },
 {
         "id": "3",
-        "title": "Wake my husband",
-        "description": "Wake my husband so that he would not be late for work"
+        "title": "Drink warm water",
+        "description": "Drink warm water to give your body a morning boost"
     },
 ]
 def todoList(request):
